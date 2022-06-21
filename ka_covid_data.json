@@ -1,0 +1,408 @@
+"Karnataka": {
+    "districtData": {
+      "Bagalkote": {
+        "notes": "",
+        "active": 39,
+        "confirmed": 35121,
+        "migratedother": 0,
+        "deceased": 327,
+        "recovered": 34755,
+        "delta": {
+          "confirmed": 3,
+          "deceased": 0,
+          "recovered": 3
+        }
+      },
+      "Ballari": {
+        "notes": "",
+        "active": 217,
+        "confirmed": 97504,
+        "migratedother": 0,
+        "deceased": 1685,
+        "recovered": 95602,
+        "delta": {
+          "confirmed": 13,
+          "deceased": 0,
+          "recovered": 8
+        }
+      },
+      "Belagavi": {
+        "notes": "",
+        "active": 390,
+        "confirmed": 78627,
+        "migratedother": 0,
+        "deceased": 876,
+        "recovered": 77361,
+        "delta": {
+          "confirmed": 47,
+          "deceased": 3,
+          "recovered": 39
+        }
+      },
+      "Bengaluru Rural": {
+        "notes": "",
+        "active": 336,
+        "confirmed": 61199,
+        "migratedother": 0,
+        "deceased": 861,
+        "recovered": 60002,
+        "delta": {
+          "confirmed": 26,
+          "deceased": 1,
+          "recovered": 17
+        }
+      },
+      "Bengaluru Urban": {
+        "notes": "",
+        "active": 8290,
+        "confirmed": 1231474,
+        "migratedother": 1,
+        "deceased": 15923,
+        "recovered": 1207260,
+        "delta": {
+          "confirmed": 377,
+          "deceased": 5,
+          "recovered": 280
+        }
+      },
+      "Bidar": {
+        "notes": "",
+        "active": 11,
+        "confirmed": 24284,
+        "migratedother": 4,
+        "deceased": 396,
+        "recovered": 23873,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 1
+        }
+      },
+      "Chamarajanagara": {
+        "notes": "",
+        "active": 292,
+        "confirmed": 32577,
+        "migratedother": 11,
+        "deceased": 485,
+        "recovered": 31789,
+        "delta": {
+          "confirmed": 15,
+          "deceased": 0,
+          "recovered": 15
+        }
+      },
+      "Chikkaballapura": {
+        "notes": "",
+        "active": 92,
+        "confirmed": 43776,
+        "migratedother": 1,
+        "deceased": 423,
+        "recovered": 43260,
+        "delta": {
+          "confirmed": 7,
+          "deceased": 0,
+          "recovered": 30
+        }
+      },
+      "Chikkamagaluru": {
+        "notes": "",
+        "active": 1059,
+        "confirmed": 49033,
+        "migratedother": 0,
+        "deceased": 377,
+        "recovered": 47597,
+        "delta": {
+          "confirmed": 65,
+          "deceased": 0,
+          "recovered": 30
+        }
+      },
+      "Chitradurga": {
+        "notes": "",
+        "active": 469,
+        "confirmed": 36095,
+        "migratedother": 0,
+        "deceased": 192,
+        "recovered": 35434,
+        "delta": {
+          "confirmed": 16,
+          "deceased": 2,
+          "recovered": 52
+        }
+      },
+      "Dakshina Kannada": {
+        "notes": "",
+        "active": 3479,
+        "confirmed": 104257,
+        "migratedother": 5,
+        "deceased": 1477,
+        "recovered": 99296,
+        "delta": {
+          "confirmed": 422,
+          "deceased": 5,
+          "recovered": 270
+        }
+      },
+      "Davanagere": {
+        "notes": "",
+        "active": 192,
+        "confirmed": 50500,
+        "migratedother": 0,
+        "deceased": 590,
+        "recovered": 49718,
+        "delta": {
+          "confirmed": 13,
+          "deceased": 0,
+          "recovered": 14
+        }
+      },
+      "Dharwad": {
+        "notes": "",
+        "active": 133,
+        "confirmed": 60600,
+        "migratedother": 2,
+        "deceased": 1289,
+        "recovered": 59176,
+        "delta": {
+          "confirmed": 17,
+          "deceased": 0,
+          "recovered": 16
+        }
+      },
+      "Gadag": {
+        "notes": "",
+        "active": 22,
+        "confirmed": 26004,
+        "migratedother": 0,
+        "deceased": 316,
+        "recovered": 25666,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 5
+        }
+      },
+      "Hassan": {
+        "notes": "",
+        "active": 1497,
+        "confirmed": 107826,
+        "migratedother": 2,
+        "deceased": 1193,
+        "recovered": 105134,
+        "delta": {
+          "confirmed": 175,
+          "deceased": 3,
+          "recovered": 127
+        }
+      },
+      "Haveri": {
+        "notes": "",
+        "active": 27,
+        "confirmed": 21884,
+        "migratedother": 0,
+        "deceased": 631,
+        "recovered": 21226,
+        "delta": {
+          "confirmed": 5,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Kalaburagi": {
+        "notes": "",
+        "active": 92,
+        "confirmed": 61687,
+        "migratedother": 0,
+        "deceased": 818,
+        "recovered": 60777,
+        "delta": {
+          "confirmed": 4,
+          "deceased": 0,
+          "recovered": 5
+        }
+      },
+      "Kodagu": {
+        "notes": "",
+        "active": 727,
+        "confirmed": 33974,
+        "migratedother": 0,
+        "deceased": 301,
+        "recovered": 32946,
+        "delta": {
+          "confirmed": 71,
+          "deceased": 2,
+          "recovered": 83
+        }
+      },
+      "Kolar": {
+        "notes": "",
+        "active": 262,
+        "confirmed": 45901,
+        "migratedother": 0,
+        "deceased": 600,
+        "recovered": 45039,
+        "delta": {
+          "confirmed": 36,
+          "deceased": 3,
+          "recovered": 35
+        }
+      },
+      "Koppal": {
+        "notes": "",
+        "active": 66,
+        "confirmed": 35117,
+        "migratedother": 0,
+        "deceased": 518,
+        "recovered": 34533,
+        "delta": {
+          "confirmed": 4,
+          "deceased": 0,
+          "recovered": 4
+        }
+      },
+      "Mandya": {
+        "notes": "",
+        "active": 405,
+        "confirmed": 72492,
+        "migratedother": 0,
+        "deceased": 630,
+        "recovered": 71457,
+        "delta": {
+          "confirmed": 35,
+          "deceased": 2,
+          "recovered": 28
+        }
+      },
+      "Mysuru": {
+        "notes": "",
+        "active": 1174,
+        "confirmed": 174199,
+        "migratedother": 0,
+        "deceased": 2331,
+        "recovered": 170694,
+        "delta": {
+          "confirmed": 118,
+          "deceased": 3,
+          "recovered": 149
+        }
+      },
+      "Other State": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 36,
+        "migratedother": 0,
+        "deceased": 3,
+        "recovered": 33,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Raichur": {
+        "notes": "",
+        "active": 30,
+        "confirmed": 39900,
+        "migratedother": 0,
+        "deceased": 329,
+        "recovered": 39541,
+        "delta": {
+          "confirmed": 2,
+          "deceased": 0,
+          "recovered": 1
+        }
+      },
+      "Ramanagara": {
+        "notes": "",
+        "active": 93,
+        "confirmed": 24050,
+        "migratedother": 0,
+        "deceased": 311,
+        "recovered": 23646,
+        "delta": {
+          "confirmed": 6,
+          "deceased": 0,
+          "recovered": 6
+        }
+      },
+      "Shivamogga": {
+        "notes": "",
+        "active": 558,
+        "confirmed": 67431,
+        "migratedother": 0,
+        "deceased": 1063,
+        "recovered": 65810,
+        "delta": {
+          "confirmed": 47,
+          "deceased": 1,
+          "recovered": 121
+        }
+      },
+      "Tumakuru": {
+        "notes": "",
+        "active": 882,
+        "confirmed": 118431,
+        "migratedother": 0,
+        "deceased": 1080,
+        "recovered": 116469,
+        "delta": {
+          "confirmed": 88,
+          "deceased": 0,
+          "recovered": 54
+        }
+      },
+      "Udupi": {
+        "notes": "",
+        "active": 1427,
+        "confirmed": 71170,
+        "migratedother": 0,
+        "deceased": 434,
+        "recovered": 69309,
+        "delta": {
+          "confirmed": 130,
+          "deceased": 1,
+          "recovered": 166
+        }
+      },
+      "Uttara Kannada": {
+        "notes": "",
+        "active": 541,
+        "confirmed": 54051,
+        "migratedother": 0,
+        "deceased": 727,
+        "recovered": 52783,
+        "delta": {
+          "confirmed": 79,
+          "deceased": 2,
+          "recovered": 51
+        }
+      },
+      "Vijayapura": {
+        "notes": "",
+        "active": 35,
+        "confirmed": 36174,
+        "migratedother": 0,
+        "deceased": 489,
+        "recovered": 35650,
+        "delta": {
+          "confirmed": 2,
+          "deceased": 0,
+          "recovered": 7
+        }
+      },
+      "Yadgir": {
+        "notes": "",
+        "active": 14,
+        "confirmed": 27501,
+        "migratedother": 0,
+        "deceased": 206,
+        "recovered": 27281,
+        "delta": {
+          "confirmed": 3,
+          "deceased": 0,
+          "recovered": 1
+        }
+      }
+    },
+    "statecode": "KA"
+  },

@@ -1,0 +1,16 @@
+{
+"districtData": {
+      "Bagalkote": {
+        "notes": "",
+        "active": 39,
+        "confirmed": 35121,
+        "migratedother": 0,
+        "deceased": 327,
+        "recovered": 34755,
+        "delta": {
+          "confirmed": 3,
+          "deceased": 0,
+          "recovered": 3
+        }
+      }
+}
